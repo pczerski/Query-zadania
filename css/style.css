@@ -1,0 +1,11 @@
+#square {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+h2 {
+    font-size: 14px;
+    text-align: center;
+}
